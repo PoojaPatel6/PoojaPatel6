@@ -9,7 +9,9 @@
 
 - 🌱 I’m currently learning **Java FSD**
 
-- 💬 Ask me about **Html,CSS,JavaScript,Python,Django,Php,Mysql,DBMS,Cloud**
+- 📝 I write articles on [https://medium.com/@poojapatel6](https://medium.com/@poojapatel6)
+
+- 💬 Ask me about **Html| CSS| JavaScript| Python| Django| Php| Mysql| DBMS| Cloud**
 
 - 📫 How to reach me **kumaripooja91091@gmail.com**
 
