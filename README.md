@@ -1,3 +1,7 @@
+<div align = "center">
+
+  <img src = "https://github.com/PoojaPatel6/PoojaPatel6/blob/main/tech.jpg" alt ="Banner Image" width ="800" height="200">
+</div>
 <h1 align="center">Hi 👋, I'm Pooja Patel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
