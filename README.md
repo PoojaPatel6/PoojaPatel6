@@ -15,7 +15,7 @@
 
 - 📝 I write articles on [https://medium.com/@poojapatel6](https://medium.com/@poojapatel6)
 
-- 💬 Ask me about **Html| CSS| JavaScript| Python| Django| Php| Mysql| DBMS| Cloud**
+- 💬 Ask me about **Html| CSS| JavaScript| Python| Django| Php| Mysql| DBMS| Cloud| MEAN **
 
 - 📫 How to reach me **kumaripooja91091@gmail.com**
 
