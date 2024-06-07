@@ -1,6 +1,5 @@
 <div align = "center">
-
-  <img src = "https://github.com/PoojaPatel6/PoojaPatel6/blob/main/tech.avif" alt ="Banner Image" width ="1000" height="300">
+<img src = "https://github.com/PoojaPatel6/PoojaPatel6/blob/main/tech.avif" alt ="Banner Image" width ="1000" height="300">
 </div>
 <h1 align="center">Hi 👋, I'm Pooja Patel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
